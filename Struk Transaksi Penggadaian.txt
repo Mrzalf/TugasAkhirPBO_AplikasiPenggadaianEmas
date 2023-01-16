@@ -1,0 +1,10 @@
+===== Struk Transaksi Penggadaian Emas =====
+ID Penggadai: 270503
+Nama Penggadai: Muhammad Rizaldy Alifiansyah
+Jenis Emas: 
+Emas Batangan
+Jumlah Emas: 3.0 gram
+Harga Emas per gram: Rp. 2500000.0
+Metode Pembayaran: 
+Mobile Banking
+Total Harga yang harus dibayar: Rp. 7500000.0
